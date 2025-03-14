@@ -23,14 +23,14 @@
         <li><span style="color: greenyellow;">What I can do for my kiddos</span></li>
     </ol>
     </section>
-    <section="First Website">
+    <section>
         <h2><span style="color: purple;"> My Projects</span></h2>
         <h4>First Website</h4>
         <p>My first offical website. Where I was able to successfully publish my first website.</p>
         <img src="C:\Users\xcast\OneDrive\Pictures\Screenshots\Screenshot 2025-02-18 174110.png" alt="My First Webpage" width="150" height="150">
         <a href="https://xcastillo01.github.io/Website.github.io/Week%205%20Assignment.html.html"t arget="_blank">Visit First Webpage</a>
     </section>
-    <section id="Skills">
+    <section>
         <h2><span style="color: purple;">Skills</span></h2>
         <ol>
             <li>Soft Skill in Coding HTML</li>
@@ -40,8 +40,7 @@
         <p>My proficiency levels in the skills of programming is Beginner.</p>
     </section>
     <footer>
-        Created March 13th, 2025 by Xochitl Castillo. All images and credits go to the rightful owner: Xochitl Castillo.
-        Contact Me at: <a href="Email at:xcastillo1@saddleback.edu">xcastillo1@saddleback.edu</a>
+       Created March 13th, 2025 by Xochitl Castillo. All images and credits go to the rightful owner: Xochitl Castillo. <br>Contact Me at: <a href="Email at:xcastillo1@saddleback.edu">xcastillo1@saddleback.edu</br></a>
     </footer>
 </body>
 </html>
